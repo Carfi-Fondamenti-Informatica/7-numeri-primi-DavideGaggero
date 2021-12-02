@@ -3,4 +3,4 @@
 
 bool numeroPrimo(int a);
 
-#endif  //ES7_LIB_H
+#endif //ES7_LIB_H
