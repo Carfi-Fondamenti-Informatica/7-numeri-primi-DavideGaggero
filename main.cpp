@@ -7,8 +7,8 @@ int main(){
   int numero;
   cin >> numero;
   if (numero == 0){
-    cout << "numero primo" << endl;
-  }eslse if{( numero < 0){
+    cout <<" numero primo"<< endl;
+  }eslse if{( numero < 0) {
     return 0;
   }else{
   
