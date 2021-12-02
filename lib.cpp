@@ -8,9 +8,9 @@ bool numeroPrimo(int a){
       primo = false;
       break;
    
-    }
+         }
   }  
-return primo;
+  return primo;
 }  
 
 
